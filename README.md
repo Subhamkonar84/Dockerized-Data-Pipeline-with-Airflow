@@ -95,6 +95,10 @@ Update `SCHEDULE_INTERVAL` (Airflow cron or presets like `@daily`, `@hourly` or,
 
 # Example working
 
+  ![runs executed](https://github.com/Subhamkonar84/Dockerized-Data-Pipeline-with-Airflow/blob/main/Screenshot%20from%202025-08-22%2017-13-52.png)
+
+  ![dags dashboard](https://github.com/Subhamkonar84/Dockerized-Data-Pipeline-with-Airflow/blob/main/Screenshot%20from%202025-08-22%2017-14-14.png)
+
 # ✅ Tech Stack
 - **Apache Airflow** (DAG orchestration)  
 - **PostgreSQL** (data warehouse)  
